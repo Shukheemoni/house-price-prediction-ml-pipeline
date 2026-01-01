@@ -48,3 +48,27 @@ Chosen because it penalizes large prediction errors, which is appropriate for ho
 ---
 
 ## Project Structure
+
+---
+
+## Future Improvements
+- Hyperparameter tuning (GridSearchCV / RandomizedSearchCV)
+- Model comparison (Linear Regression, Ridge, Random Forest, XGBoost)
+- Cross-validation for more robust evaluation
+- Feature importance and interpretability analysis
+
+---
+
+## Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- scikit-learn
+- Matplotlib / Seaborn
+
+---
+
+## Author
+**Shukhee Moni**  
+Data Science Student | Aspiring Machine Learning Engineer
+
