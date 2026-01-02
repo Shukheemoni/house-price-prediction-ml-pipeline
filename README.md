@@ -49,8 +49,11 @@ Chosen because it penalizes large prediction errors, which is appropriate for ho
 
 ## Project Structure
 house-price-prediction-ml-pipeline/
-├── Project 1 House price Prediction Day 6.ipynb
-└── README.md
+├── House_Price_Prediction.ipynb
+├── README.md
+├── requirements.txt
+
+
 ---
 
 ## Future Improvements
